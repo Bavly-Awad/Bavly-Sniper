@@ -1,0 +1,1 @@
+-- Add your cookie here. This is not a cookie logger, it will only use your x-scrf token to refresh every 0.2 seconds to pull the item from the catalog.
